@@ -6,6 +6,8 @@ Pacman project, originally developed by Dr. Dan Klein and Dr. Pieter Abbeel of U
 Python based project that shows a variety of different AI techniques including minimax, expectimax, MDPS,and alpha-beta pruning. 
 The project was separted into the parts (P1,P2,P3)
 
+Modified files containted in the corresponding PA folder for each part. Supporting files also stored as zip in each directory
+
 Modified files:
 
 P1 Search
